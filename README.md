@@ -1,6 +1,6 @@
 # Java_practice
 =====================================
-Zoombie Attack 1 Instractions:
+#Zoombie Attack 1 Instractions:
 
 An array inhabitants represents cities and their respective populations. For example, the following arrays shows 8 cities and their respective populations:
 [3, 6, 0, 4, 3, 2, 7, 1]
@@ -14,9 +14,9 @@ Day 3 [0, 0, 0, 0, 0, 0, 0, 0]
 ---- EXTINCT ----
 
 Write the program in a way that it will handle any number of people in cities, above was just an example numbers to follow.
-==========================================
 
-Zoombie Attack 2 Instractions:
+
+#Zoombie Attack 2 Instractions:
 
 An array inhabitants represents cities and their respective populations. For example, the following arrays shows 8 cities and their respective populations:
 [3, 6, 0, 4, 3, 2, 7, 1]
