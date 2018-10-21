@@ -1,5 +1,5 @@
 # Java_practice
-=====================================
+
 #Zoombie Attack 1 Instractions:
 
 An array inhabitants represents cities and their respective populations. For example, the following arrays shows 8 cities and their respective populations:
