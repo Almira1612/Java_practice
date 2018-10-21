@@ -7,10 +7,10 @@ An array inhabitants represents cities and their respective populations. For exa
 Some cities have a population of 0 due to a pandemic zombie disease that is wiping away the human lives. After each day, every city will lose half of its population.
 write a program to loop though each city population and make it lose half of its population until all cities have no humans left. Make updates to each element in the array And print the array like below for each day:
 
-Day 0 [3, 6, 0, 4, 3, 2, 7, 1]
-Day 1 [1, 3, 0, 2, 1, 1, 3, 0]
-Day 2 [0, 1, 0, 1, 0, 0, 1, 0]
-Day 3 [0, 0, 0, 0, 0, 0, 0, 0]
+Day 0 [3, 6, 0, 4, 3, 2, 7, 1]  
+Day 1 [1, 3, 0, 2, 1, 1, 3, 0]  
+Day 2 [0, 1, 0, 1, 0, 0, 1, 0]  
+Day 3 [0, 0, 0, 0, 0, 0, 0, 0]  
 ---- EXTINCT ----
 
 Write the program in a way that it will handle any number of people in cities, above was just an example numbers to follow.
@@ -26,12 +26,12 @@ Write a program to loop though each city population and make it lose half of its
 
  Make updates to each element in the array And print the array like below for each day:
 
-Day 0 [3, 6, 0, 4, 3, 2, 7, 0]
-Day 1 [3, 3, 0, 2, 3, 2, 3, 0]
-Day 2 [3, 1, 0, 1, 3, 2, 1, 0]
-Day 3 [3, 0, 0, 0, 3, 2, 0, 0]
-Day 4 [1, 0, 0, 0, 1, 1, 0, 0]
-Day 5 [0, 0, 0, 0, 0, 0, 0, 0]
+Day 0 [3, 6, 0, 4, 3, 2, 7, 0]  
+Day 1 [3, 3, 0, 2, 3, 2, 3, 0]  
+Day 2 [3, 1, 0, 1, 3, 2, 1, 0]  
+Day 3 [3, 0, 0, 0, 3, 2, 0, 0]  
+Day 4 [1, 0, 0, 0, 1, 1, 0, 0]  
+Day 5 [0, 0, 0, 0, 0, 0, 0, 0]  
 ---- EXTINCT ----
 
 Write the program in a way that it will handle any number of people in cities, above was just an example numbers to follow.
